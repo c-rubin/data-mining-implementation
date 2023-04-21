@@ -11,4 +11,4 @@ We will then train classifiers using six different techniques: Random Forest Cla
 
 We will also print the confusion matrix, classification report and accoracy score for each classification that we've made.</br>
 
-This project has been implemented in Python.<br/>
+This project has been implemented in Python, using Google Colaboratory.<br/>
