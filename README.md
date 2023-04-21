@@ -3,7 +3,7 @@
 
 
 <h2> Description </h2>
-In this implementation, we will be classifying credit cards from creditcard.csv, which you can download <a href="https://1drv.ms/u/s!AvdBsrSZ6YEmgQwa4ID3EdIP9XXV?e=rV9yAp">here</a>. After downloading the zip file, simply open it and exctract creditcard.csv to the same folder where data_mining_mini_project.ipynb is located.
+In this implementation, we will be classifying credit cards from creditcard.csv, which you can download <a href="https://1drv.ms/u/s!AvdBsrSZ6YEmgQwa4ID3EdIP9XXV?e=rV9yAp">here</a>. After downloading the .zip file, simply open it and exctract creditcard.csv to the same folder where data_mining_mini_project.ipynb is located.</br></br>
 
 We will first initialize our program, by loading the data into a dataframe (using Pandas) and split the data into training and testing sets.
 
